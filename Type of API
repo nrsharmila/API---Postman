@@ -1,0 +1,11 @@
+Two type of API is below mentioned:
+
+REST API - Representaitonal State Transfer.
+i) It is not a protocol but it is an architectural style.
+ii) http method : Get, Put, Post, Delete, Patch, head, copy, link etc...
+iii) Request & Response body: Xml, Json, Yaml, Text, HTML, etc...
+
+SOAP API - Simple Object Access Protocol.
+i) SOAP is a protocol.
+ii) http method : POST.
+iii) Request & Response body : Xml.
